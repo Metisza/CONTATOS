@@ -54,6 +54,10 @@ li{
     color:#385555;
 }
 
+.container_email{
+    font-size: 15px;
+}
+
 .container_action{
     display: flex;
     background-color: #e5e5e5;
